@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\toyra\\Desktop\\Blog_mvc\\Blog_mvc.csproj": {}
+    "C:\\Users\\toyra\\Desktop\\Blog_Mvc\\Blog_mvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\toyra\\Desktop\\Blog_mvc\\Blog_mvc.csproj": {
+    "C:\\Users\\toyra\\Desktop\\Blog_Mvc\\Blog_mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\toyra\\Desktop\\Blog_mvc\\Blog_mvc.csproj",
+        "projectUniqueName": "C:\\Users\\toyra\\Desktop\\Blog_Mvc\\Blog_mvc.csproj",
         "projectName": "Blog_mvc",
-        "projectPath": "C:\\Users\\toyra\\Desktop\\Blog_mvc\\Blog_mvc.csproj",
+        "projectPath": "C:\\Users\\toyra\\Desktop\\Blog_Mvc\\Blog_mvc.csproj",
         "packagesPath": "C:\\Users\\toyra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\toyra\\Desktop\\Blog_mvc\\obj\\",
+        "outputPath": "C:\\Users\\toyra\\Desktop\\Blog_Mvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -69,6 +69,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.1, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.14.0, )"
             }
           },
           "imports": [
